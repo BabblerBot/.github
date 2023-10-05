@@ -1,5 +1,5 @@
 
-# BabblerBor
+# BabblerBot
 
 BabblerBot is a versatile chatbot designed to enhance your literary journey with the Gutenberg Project. With BabblerBot, you can explore a vast collection of classic books and interact with them in an engaging and informative manner. Whether you're an avid reader or a casual book enthusiast, BabblerBot will help you discover, understand, and discuss your favorite literary works like never before.
 
